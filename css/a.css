@@ -1,0 +1,99 @@
+
+h2{
+  
+    text-decoration-line: underline;
+    text-decoration-color:blue ;
+}
+.main{
+    margin-top: 50px; 
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h3{
+   font-size: 15px;
+    margin-left: 3px;
+    font-weight: 700;
+    margin-bottom: -5px;
+    
+    
+}
+.cart{
+    .fa-heart{
+        color: blue;
+        background-color: rgb(255, 255, 255);
+        font-size: 8px;
+        padding: 5px;
+        border: #0453ff 2px solid;
+        margin: 2px;
+    }
+    
+ .fa-lock{
+    font-size: 10px;
+    margin-left: 2px;
+    margin-right: -4px;
+    color: white;
+    background-color: blue;
+    padding: 5.5px;
+    padding-left:30px ;
+    
+ }
+ .p4{
+  margin-top: 5px;
+    font-size: 10px;
+    padding: 5px;
+    display: inline;
+    color: aliceblue;
+    background-color: blue;
+    padding-right: 20px;
+
+ }
+ 
+}
+
+.iph{
+    border: rgb(139, 154, 168) 0.5px solid ;
+    margin-top: 10px;
+    margin-right:10px ;
+    width: 150px;
+    float: left;
+    
+
+    .p1{
+        font-size: 12px;
+        margin-top: -px;
+        margin-left: 3px;
+        
+    }
+    .p2{
+        font-weight :900;
+        color: #1fba2c;
+        display: inline;
+        margin-left: 3px;
+       
+    }
+    .p3{
+        color: red;
+        font-size: 12px;
+        font-weight: 600;
+         text-decoration: line-through red;
+         display:inline;
+         margin-left: 3px;
+         
+
+    }
+ 
+}
+img{
+    width: 140px;
+    border: #a9a9a9 .5px solid;
+    margin-top:5px ;
+    margin-left: 5px;
+    margin-bottom: -10px;
+    
+   
+}
+
+.clear{
+    clear:left;
+}
